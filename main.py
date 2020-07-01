@@ -8,7 +8,7 @@ a = np.array([[2,4,5],[4,5,6]])
 b = ["ñlk","kldks", 5]
 c = "casa"
 d = { "name" : 5}
-l = (3,5)
+l = (3,6)
 
 arr = [a,b,c,d,l]
 
